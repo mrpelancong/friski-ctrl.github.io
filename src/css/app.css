@@ -1,0 +1,9 @@
+/* Your app custom styles here */
+.navbar-inner {
+	padding-left: 50px;
+}
+
+.block {
+	padding-left: 50px;
+	padding-right: 50px;
+}
